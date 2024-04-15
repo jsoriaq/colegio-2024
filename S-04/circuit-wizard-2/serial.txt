@@ -1,0 +1,9 @@
+Single user installation:
+Run setup.exe with the following serial: CW-ED01-EGBGJQMQNR (single user license)
+Run cw150web.exe with the same serial
+Start application, use 6108-0780-6703 as unlock code.
+
+40-user installation:
+Run setup.exe with the following serial: CW-ED40-63XY9FPKC9 (40-user license)
+Run cw150web.exe with the same serial
+Start application, use 7288-3493-5096 as unlock code.
